@@ -58,4 +58,5 @@ https://netron.app/
 > outputMap.put(1, outputLocations);
 > outputMap.put(2, numDetections);
 > outputMap.put(3, outputClasses);
+
 https://discuss.tensorflow.org/t/object-detection-android-app-creates-error-with-model-from-tflite-model-maker-it-had-worked-for-many-weeks-a-until-a-few-weeks-ago/4015/9
