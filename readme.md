@@ -48,6 +48,9 @@ https://stackoverflow.com/questions/70054904/cannot-copy-from-a-tensorflowlite-t
 https://tfhub.dev/tensorflow/lite-model/efficientdet/lite4/detection/metadata/2  
 ・tflite-model-maker Efficientdet  
 https://tensorflow.org/lite/tutorials/model_maker_object_detection  
+  
+出力の順番を確認するにはNetronをお勧めします。  
+https://netron.app/  
 
 ### 解決策
 下記の通り、ObjectDetectorの出力の順番を調整する必要がある。コードの書き方によって対応が違うので注意が必要。
